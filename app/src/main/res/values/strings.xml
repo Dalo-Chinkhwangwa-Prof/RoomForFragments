@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomForFragments</string>
+    <string name="show_fragment_text">SHOW FRAGMENT</string>
+</resources>
